@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'swift_struct_demo' in project 'swift_struct_demo' (no dependencies)
